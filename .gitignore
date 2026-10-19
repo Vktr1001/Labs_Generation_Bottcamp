@@ -1,0 +1,19 @@
+# Python: archivos compilados
+__pycache__/
+*.pyc
+
+# pytest
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
